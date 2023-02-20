@@ -39,5 +39,10 @@ Lift is an important measure. A value of lift greater than 1 vouches for high as
 More the value of lift, greater are the chances of preference to buy {Y} if the customer has already bought {X}. 
 Lift is the measure that will help store managers to decide product placements on aisle.
 
+### Screegrab from our Analysis 
+
+
+<img width="1079" alt="Screenshot 2023-02-19 at 10 46 45 PM" src="https://user-images.githubusercontent.com/80999165/220005145-3593a7c9-83de-4feb-9f3c-6ca6d0870033.png">
+
 
 
