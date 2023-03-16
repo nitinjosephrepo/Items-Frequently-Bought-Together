@@ -2,7 +2,7 @@
 
 ### Purpose of Market Basket Analysis 
 Finding items that buyers desire to buy is the major goal of market basket analysis. 
-Market basket analysis may help sales and marketing teams develop more effective product placement, pricing, cross-sell, and up-sell tactics
+Market basket analysis helps sales and marketing teams develop more effective product placement, pricing, cross-sell, and up-sell tactics
 
 
 ### We will be utilizing two algorithm for Market Basket Analysis 
